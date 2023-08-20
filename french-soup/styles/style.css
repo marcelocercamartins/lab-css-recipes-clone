@@ -7,3 +7,30 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+#hero-section{
+  
+    background-image: url(../images/soup.jpg);
+    padding: 160px 0px;
+    background-size: cover;
+  
+
+}
+
+#hero-section h1 {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  
+  
+}
+.container{
+  max-width: 80%;
+  margin: 60px auto;
+  
+}
+
+#imagem {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
